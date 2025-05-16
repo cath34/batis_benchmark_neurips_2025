@@ -1,6 +1,6 @@
 # BATIS: Benchmarking Bayesian Approaches for Improving Species Distribution Models
 
-This repository contains the necessary code to reproduce the experiments shown in . 
+This repository contains the necessary code to reproduce the experiments shown in **BATIS: Benchmarking Bayesian Approaches for Improving Species Distribution Models**. 
 
 ## Installation
 
@@ -16,3 +16,4 @@ Models implementations can be found in the 'Models/' folder.
 ## Bayesian Updating
 
 Code for Preprocessing Data can be found in the 'Splits/' folder.
+
