@@ -1,0 +1,144 @@
+created virtual environment CPython3.10.13.final.0-64 in 22680ms
+  creator CPython3Posix(dest=/localscratch/cathv.55055217.0/myenv_test, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/cathv/.local/share/virtualenv)
+    added seed packages: pip==25.0+computecanada, setuptools==70.0.0+computecanada, wheel==0.45.1+computecanada
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/absl_py-2.1.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 1))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/addict-2.4.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 2))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/affine-2.4.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 3))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/aiohappyeyeballs-2.4.6+computecanada-py3-none-any.whl (from -r requirements.txt (line 4))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/aiohttp-3.10.9+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 5))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/aiosignal-1.3.2+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 6))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/antlr4_python3_runtime-4.9.3+computecanada-py3-none-any.whl (from -r requirements.txt (line 7))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/async_timeout-4.0.3+computecanada-py3-none-any.whl (from -r requirements.txt (line 8))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/attrs-25.1.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 9))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/certifi-2025.1.31+computecanada-py3-none-any.whl (from -r requirements.txt (line 10))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/charset_normalizer-3.4.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 11))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/click-8.1.8+computecanada-py3-none-any.whl (from -r requirements.txt (line 12))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/click_plugins-1.1.1+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 13))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cligj-0.7.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 14))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/contourpy-1.3.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 15))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cycler-0.12.1+computecanada-py3-none-any.whl (from -r requirements.txt (line 16))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/filelock-3.17.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 17))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/fiona-1.9.5+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 18))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/fonttools-4.55.8+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 19))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/frozenlist-1.5.0+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 20))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/fsspec-2025.2.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 21))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/future-1.0.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 22))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/grpcio-1.67.0+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 23))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/huggingface_hub-0.28.1+computecanada-py3-none-any.whl (from -r requirements.txt (line 24))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/hydra_core-1.3.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 25))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/idna-3.10+computecanada-py3-none-any.whl (from -r requirements.txt (line 26))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/jinja2-3.1.5+computecanada-py3-none-any.whl (from -r requirements.txt (line 27))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/kiwisolver-1.4.8+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 28))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/lightning_utilities-0.12.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 29))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Markdown-3.7+computecanada-py3-none-any.whl (from -r requirements.txt (line 30))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/MarkupSafe-2.1.5+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 31))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/matplotlib-3.6.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 32))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/mpmath-1.3.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 33))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/multidict-6.1.0+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 34))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/networkx-3.4.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 35))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/numpy-1.26.4+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 36))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/omegaconf-2.3.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 37))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/packaging-24.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 38))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/pandas-2.2.3+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 39))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/pillow-11.1.0+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 40))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/Pillow_SIMD-9.5.0.post2+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 41))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/propcache-0.2.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 42))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/protobuf-5.29.3+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 43))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyDeprecate-0.3.1+computecanada-py3-none-any.whl (from -r requirements.txt (line 44))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyparsing-3.2.1+computecanada-py3-none-any.whl (from -r requirements.txt (line 45))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/python_dateutil-2.9.0.post0+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 46))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pytorch_lightning-1.5.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 47))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pytz-2025.1+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 48))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/PyYAML-6.0.2+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 49))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/rasterio-1.3.9+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 50))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/requests-2.32.3+computecanada-py3-none-any.whl (from -r requirements.txt (line 51))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/Rtree-1.0.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 52))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/safetensors-0.4.5+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 53))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/six-1.17.0+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 54))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/snuggs-1.4.7+computecanada-py3-none-any.whl (from -r requirements.txt (line 55))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/sympy-1.13.3+computecanada-py3-none-any.whl (from -r requirements.txt (line 56))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard-2.18.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 57))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tensorboard_data_server-0.7.2+computecanada-py3-none-linux_x86_64.whl (from -r requirements.txt (line 58))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tifffile-2023.4.12+computecanada-py3-none-any.whl (from -r requirements.txt (line 59))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/timm-0.9.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 60))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/torch-2.1.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 61))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/torchmetrics-1.2.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 62))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/torchvision-0.16.1+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 63))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tqdm-4.67.1+computecanada-py3-none-any.whl (from -r requirements.txt (line 64))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/typing_extensions-4.12.2+computecanada-py3-none-any.whl (from -r requirements.txt (line 65))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tzdata-2025.1+computecanada-py2.py3-none-any.whl (from -r requirements.txt (line 66))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/urllib3-2.3.0+computecanada-py3-none-any.whl (from -r requirements.txt (line 67))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/werkzeug-3.1.3+computecanada-py3-none-any.whl (from -r requirements.txt (line 68))
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/yarl-1.18.3+computecanada-cp310-cp310-linux_x86_64.whl (from -r requirements.txt (line 69))
+Requirement already satisfied: setuptools in /localscratch/cathv.55055217.0/myenv_test/lib/python3.10/site-packages (from fiona==1.9.5+computecanada->-r requirements.txt (line 18)) (70.0.0+computecanada)
+Installing collected packages: pytz, mpmath, antlr4_python3_runtime, addict, urllib3, tzdata, typing_extensions, tqdm, tensorboard_data_server, sympy, six, safetensors, Rtree, PyYAML, pyparsing, pyDeprecate, protobuf, propcache, Pillow_SIMD, pillow, packaging, numpy, networkx, MarkupSafe, Markdown, kiwisolver, idna, grpcio, future, fsspec, frozenlist, fonttools, filelock, cycler, click, charset_normalizer, certifi, attrs, async_timeout, aiohappyeyeballs, affine, absl_py, werkzeug, tifffile, snuggs, requests, python_dateutil, omegaconf, multidict, lightning_utilities, jinja2, contourpy, cligj, click-plugins, aiosignal, yarl, torch, tensorboard, rasterio, pandas, matplotlib, hydra_core, huggingface_hub, fiona, torchvision, torchmetrics, aiohttp, timm, pytorch_lightning
+Successfully installed Markdown-3.7+computecanada MarkupSafe-2.1.5+computecanada Pillow_SIMD-9.5.0.post2+computecanada PyYAML-6.0.2+computecanada Rtree-1.0.1+computecanada absl_py-2.1.0+computecanada addict-2.4.0+computecanada affine-2.4.0+computecanada aiohappyeyeballs-2.4.6+computecanada aiohttp-3.10.9+computecanada aiosignal-1.3.2+computecanada antlr4_python3_runtime-4.9.3+computecanada async_timeout-4.0.3+computecanada attrs-25.1.0+computecanada certifi-2025.1.31+computecanada charset_normalizer-3.4.1+computecanada click-8.1.8+computecanada click-plugins-1.1.1+computecanada cligj-0.7.2+computecanada contourpy-1.3.1+computecanada cycler-0.12.1+computecanada filelock-3.17.0+computecanada fiona-1.9.5+computecanada fonttools-4.55.8+computecanada frozenlist-1.5.0+computecanada fsspec-2025.2.0+computecanada future-1.0.0+computecanada grpcio-1.67.0+computecanada huggingface_hub-0.28.1+computecanada hydra_core-1.3.2+computecanada idna-3.10+computecanada jinja2-3.1.5+computecanada kiwisolver-1.4.8+computecanada lightning_utilities-0.12.0+computecanada matplotlib-3.6.1+computecanada mpmath-1.3.0+computecanada multidict-6.1.0+computecanada networkx-3.4.2+computecanada numpy-1.26.4+computecanada omegaconf-2.3.0+computecanada packaging-24.2+computecanada pandas-2.2.3+computecanada pillow-11.1.0+computecanada propcache-0.2.1+computecanada protobuf-5.29.3+computecanada pyDeprecate-0.3.1+computecanada pyparsing-3.2.1+computecanada python_dateutil-2.9.0.post0+computecanada pytorch_lightning-1.5.0+computecanada pytz-2025.1+computecanada rasterio-1.3.9+computecanada requests-2.32.3+computecanada safetensors-0.4.5+computecanada six-1.17.0+computecanada snuggs-1.4.7+computecanada sympy-1.13.3+computecanada tensorboard-2.18.0+computecanada tensorboard_data_server-0.7.2+computecanada tifffile-2023.4.12+computecanada timm-0.9.2+computecanada torch-2.1.1+computecanada torchmetrics-1.2.0+computecanada torchvision-0.16.1+computecanada tqdm-4.67.1+computecanada typing_extensions-4.12.2+computecanada tzdata-2025.1+computecanada urllib3-2.3.0+computecanada werkzeug-3.1.3+computecanada yarl-1.18.3+computecanada
+Global seed set to 877
+/lustre03/project/6004852/cathv/MVN/src/trainer/utils.py:42: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  rgb_weights = torch.tensor(rgb_weights, device=rgb_weights.device)
+/localscratch/cathv.55055217.0/myenv_test/lib/python3.10/site-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+COUCOUUUU
+using config  /lustre03/project/6004852/cathv/MVN/configs/Kenya/resnet_test_ccan.yaml
+using config  /lustre03/project/6004852/cathv/MVN/configs/Kenya/resnet_test_ccan.yaml
+877
+SUP
+Env var means:  [ 19.595264  11.672959  74.257225 105.71802   27.704062  12.358208
+  15.284379  20.140545  18.785847  20.741146  18.204039 881.3303
+ 173.02878   20.802778  67.05282  379.92935   82.33569  260.63416
+ 135.76114 ]
+Env var stds:  [ 0.54862297  0.3023347   1.4900455  17.863705    0.691244    0.9017628
+  0.34788147  0.63828284  0.59611475  0.57371515  0.53033906 43.61042
+ 48.451965    4.8433795  17.5795     76.45182    12.854829   16.124302
+ 14.759585  ]
+Images RGBNIR means:  [1750.94914133 1620.69195444 1355.3726677  3208.90262241]
+Images RGBNIR stds:  [878.19507362 633.43137424 730.37685479 868.21094415]
+{'logger': True, 'enable_checkpointing': True, 'callbacks': None, 'default_root_dir': None, 'gradient_clip_val': 0.0, 'num_nodes': 1, 'num_processes': 1, 'devices': 1, 'auto_select_gpus': False, 'tpu_cores': None, 'overfit_batches': 0.0, 'track_grad_norm': -1, 'check_val_every_n_epoch': 1, 'fast_dev_run': False, 'accumulate_grad_batches': 1, 'max_epochs': 400, 'min_epochs': None, 'max_steps': -1, 'min_steps': None, 'limit_train_batches': 1.0, 'limit_val_batches': 1.0, 'limit_test_batches': 1.0, 'val_check_interval': 1.0, 'log_every_n_steps': 1, 'accelerator': 'mps', 'sync_batchnorm': False, 'precision': 32, 'weights_save_path': None, 'num_sanity_val_steps': 2, 'resume_from_checkpoint': None, 'profiler': None, 'benchmark': False, 'deterministic': False, 'auto_lr_find': False, 'replace_sampler_ddp': True, 'auto_scale_batch_size': False, 'plugins': None, 'amp_backend': 'native', 'move_metrics_to_cpu': False}
+False
+1054
+Predicting  1054 species
+0.0001
+random: 0.011765003204345703
+ReduceLROnPlateau
+Everything ok so far
+Epoch 1 / 50
+Warmup : True
+Epoch 1/50, Average Loss: -0.4641
+Epoch 1 - Val Loss: -0.6348
+Epoch 1 - Test Loss: -0.6535
+Epoch 2 / 50
+Warmup : True
+Epoch 2/50, Average Loss: -0.6524
+Epoch 2 - Val Loss: -0.6598
+Epoch 2 - Test Loss: -0.6777
+Epoch 3 / 50
+Warmup : True
+Epoch 3/50, Average Loss: -0.6623
+Epoch 3 - Val Loss: -0.6632
+Epoch 3 - Test Loss: -0.6809
+Epoch 4 / 50
+Warmup : True
+Epoch 4/50, Average Loss: -0.6644
+Epoch 4 - Val Loss: -0.6648
+Epoch 4 - Test Loss: -0.6825
+Epoch 5 / 50
+Warmup : True
+Epoch 5/50, Average Loss: -0.6652
+Epoch 5 - Val Loss: -0.6653
+Epoch 5 - Test Loss: -0.6830
+Epoch 6 / 50
+Warmup : True
+Epoch 6/50, Average Loss: -0.6658
+Epoch 6 - Val Loss: -0.6658
+Epoch 6 - Test Loss: -0.6836
+Epoch 7 / 50
+Warmup : False
+Epoch 7/50, Average Loss: -1.7550
+Epoch 7 - Val Loss: -2.1340
+Epoch 7 - Test Loss: -2.4838
+Epoch 8 / 50
+Warmup : False
+slurmstepd: error: *** JOB 55055217 ON bg11709 CANCELLED AT 2025-04-09T00:49:26 DUE TO TIME LIMIT ***
