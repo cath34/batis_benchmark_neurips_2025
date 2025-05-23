@@ -4,6 +4,17 @@ This repository contains the necessary code to reproduce the experiments shown i
 
 **Authors :** Catherine Villeneuve, Melisande Teng, Benjamin Akera and David Rolnick.
 
+## ⚠️ !!! ERRATUM IN THE MAIN PAPER !!! ⚠️
+
+We would like to apologize to the reviewers for a typo in Table 1 of the main paper. The table incorrectly suggests that hundreds of thousands of species can be observed in the United States during summer, and nearly 50,000 in winter. While many birders would surely dream of such an extraordinary high avian biodiversity, these numbers are clearly far from the reality. The values intended for the `number_of_hotspots` column were unfortunately placed in the `number_of_species` column. The first table of the Appendix reports the appropriate numbers, but we also include it here to avoid any confusion : 
+
+| **Region**           | **Date Range**              | **Number of Checklists** | **Number of Hotspots** | **Number of Species** | **Species List** |
+|----------------------|-----------------------------|---------------------------|-------------------------|------------------------|------------------|
+| Kenya (KE)           | 2010-01-01 to 2023-12-31    | 44,852                    | 8,551                   | 1,054                  | Avibase          |
+| South Africa (ZA)    | 2018-01-01 to 2024-06-17    | 498,867                   | 6,643                   | 755                    | BirdLife         |
+| USA-Winter (US-W)    | 2022-12-01 to 2023-01-31    | 3,673,742                 | 45,882                  | 670                    | ABA 1-2          |
+| USA-Summer (US-S)    | 2022-06-01 to 2022-07-31    | 3,920,846                 | 98,443                  | 670                    | ABA 1-2          |
+
 ## Installation
 
 Please run the following code to install the requirements
