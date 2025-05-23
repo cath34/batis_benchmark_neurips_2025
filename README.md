@@ -35,7 +35,7 @@ For baselines that only require an input vector instead of a matrix (i.e. Multi-
 
 ## Models
 
-Models implementations can be found in the `Models/` folder.
+Models implementations can be found in the `Models/` folder. Examples of all config files for different baselines and subdatasets are available in `configs`. The training scripts also contain the code to test the model and save the individual predictions for each hotspot to a pre-determined folder. 
 
 ## Bayesian Updating Framework 
 
