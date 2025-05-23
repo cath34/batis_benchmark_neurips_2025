@@ -1,6 +1,6 @@
 # BATIS: Benchmarking Bayesian Approaches for Improving Species Distribution Models
 
-This repository contains the necessary code to reproduce the experiments shown in **BATIS: Benchmarking Bayesian Approaches for Improving Species Distribution Models**. 
+This repository contains the necessary code to reproduce the experiments shown in **BATIS: Benchmarking Bayesian Approaches for Improving Species Distribution Models**. To download the associated dataset, please see our [Hugging Face repository](https://huggingface.co/datasets/cathv/batis_benchmark_2025). 
 
 **Authors :** Catherine Villeneuve, Melisande Teng, Benjamin Akera and David Rolnick.
 
